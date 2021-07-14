@@ -1,4 +1,4 @@
-## Welcome to the Canoe GitHub Pages
+## Welcome to Canoe
 
 You can use the [editor on GitHub](https://github.com/RamtinCanoe/Adoption-Plan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
